@@ -1,0 +1,64 @@
+.header-text {
+    color: rgb(235, 154, 154);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.below-header {
+    color: white;
+    font-style: italic;
+}
+
+.cooler-font {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.about-header {
+    color:rgb(251, 255, 0);
+}
+
+.below-about {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.underline:visited {
+    color: white;
+}
+
+b {
+    color: white;
+}
+
+b:visited {
+    color:white;
+}
+
+.center {
+    position: relative;
+    text-align: center;
+    left: 575px;
+
+}
+
+.center-header {
+    position: relative;
+    text-align: center;
+    left: 0px;
+}
+
+.labels {
+        color: black;
+        background-color: rgb(236, 205, 210);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-size:x-large;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
